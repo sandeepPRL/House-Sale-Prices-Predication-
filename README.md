@@ -11,4 +11,4 @@ Model Deployment
 Data Description-
 train.csv - the training set
 test.csv - the test set
-for mor Find data_description.txt on repository.
+for more info- Find data_description.txt on repository.
